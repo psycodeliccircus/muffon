@@ -37,7 +37,7 @@
     "perMachine": true
   },
   "portable": {
-    "artifactName": "${productName}-${version}-${os}-${arch}-portable.${ext}",
+    "artifactName": "${productName}-${version}-${os}-${arch}-portable.${ext}"
   },
   "directories": {
     "buildResources": "build",
