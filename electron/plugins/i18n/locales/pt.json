@@ -1,0 +1,14 @@
+{
+  "show": "Mostrar",
+  "hide": "Esconder",
+  "about": "Sobre",
+  "exit": "Sair",
+  "update": {
+    "message": "Uma nova versão está disponível",
+    "buttons": {
+      "download": "Baixar",
+      "close": "Fechar"
+    }
+  }
+}
+
